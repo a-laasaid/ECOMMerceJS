@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "jacket",
+      "brand": "Juwayriya",
+      "category": "Clothes",
+      "price": 45.23,
+      "color": "brown",
+      "inStock": true,
+      "image": "https://i.ibb.co/VWwxt1N/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "jacket",
+      "brand": "Juwayriya",
+      "category": "Clothes",
+      "price": 43.23,
+      "color": "Black",
+      "inStock": true,
+      "image": "https://i.ibb.co/grZrQ5j/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "coat",
+      "brand": "Juwayriya",
+      "category": "Clothes",
+      "price": 50,
+      "color": "beige",
+      "inStock": false,
+      "image": "https://i.ibb.co/2nZJc4K/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "jacket",
+      "brand": "Juwayriya",
+      "category": "Clothes",
+      "price": 55.50,
+      "color": "Rose Gold",
+      "inStock": true,
+      "image": "https://i.ibb.co/XbJPn8H/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Necklaces",
+      "brand": "Juwayriya",
+      "category": "accessories",
+      "price": 20.50,
+      "color": "gold",
+      "inStock": true,
+      "image": "https://i.ibb.co/85FCtBz/1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Earrings",
+      "brand": "Juwayriya",
+      "category": "accessories",
+      "price": 23.50,
+      "color": "gold",
+      "inStock": true,
+      "image": "https://i.ibb.co/nkYw1bK/2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rings",
+      "brand": "Juwayriya",
+      "category": "accessories",
+      "price": 15.50,
+      "color": "Silver",
+      "inStock": false,
+      "image": "https://i.ibb.co/4Tbt2GV/3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Earrings",
+      "brand": "Juwayriya",
+      "category": "accessories",
+      "price": 12.50,
+      "color": "gold",
+      "inStock": true,
+      "image": "https://i.ibb.co/w61XkgG/4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lipstick",
+      "brand": "Juwayriya",
+      "category": "makeup",
+      "price": 53.50,
+      "color": "rose",
+      "inStock": true,
+      "image": "https://i.ibb.co/BKSG2kC/1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Brushes",
+      "brand": "Juwayriya",
+      "category": "makeup",
+      "price": 30.50,
+      "color": "black",
+      "inStock": true,
+      "image": "https://i.ibb.co/3mY2ZyS/2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Eye Shadow",
+      "brand": "Juwayriya",
+      "category": "makeup",
+      "price": 35.50,
+      "color": "red,rose",
+      "inStock": true,
+      "image": "https://i.ibb.co/bPS2YTQ/3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Blush",
+      "brand": "Juwayriya",
+      "category": "makeup",
+      "price": 35.70,
+      "color": "red",
+      "inStock": false,
+      "image": "https://i.ibb.co/422kVG0/4.jpg"
+    },
+    {
+      "id": 13,
+      "name": "shoes",
+      "brand": "Juwayriya",
+      "category": "shoes",
+      "price": 20.50,
+      "color": "beige",
+      "inStock": true,
+      "image": "https://i.ibb.co/CHGqhYP/1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "shoes",
+      "brand": "Juwayriya",
+      "category": "shoes",
+      "price": 20.50,
+      "color": "Black",
+      "inStock": true,
+      "image": "https://i.ibb.co/0rB4JC9/2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "shoes",
+      "brand": "Juwayriya",
+      "category": "shoes",
+      "price": 20.50,
+      "color": "Blue",
+      "inStock": true,
+      "image": "https://i.ibb.co/VpGnvPD/3.jpg"
+    },
+    {
+      "id": 16,
+      "name": "shoes",
+      "brand": "Juwayriya",
+      "category": "shoes",
+      "price": 20.50,
+      "color": "Blue",
+      "inStock": true,
+      "image": "https://i.ibb.co/ZGdFbtb/4.jpg"
+    }
+  ]
+}
